@@ -1,0 +1,46 @@
+.body{
+    background-color: mediumorchid
+
+}
+table{
+    background-color: gold;
+    border-width: 10px;
+    border-style: groove;
+    border-color: goldenrod;
+    margin-left: auto; /*I got chatGpt to help with this becuase I forgot how to center it and I tried text align and position but that didn't work*/
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+th, td{
+    border-style: double;
+    border-radius: 2px;
+    color: mediumvioletred;
+}
+.table2{
+    background-color: darkcyan;
+    border-style: dotted;
+    border-color: lightcyan;
+    padding: 2%;
+    text-shadow: 10cm;
+}
+.grid{
+    display:grid;
+    width: 10px;
+    height: 10px;
+    top: auto;
+}
+.flash{
+    width:1%;
+    height:1%
+}
+#flash{
+    color:rgb(from color r g b);
+    width:1%;
+    height:1%
+}
+p{
+    padding-right: 35%;
+    padding-left: 35%;
+    color: aqua;
+}
