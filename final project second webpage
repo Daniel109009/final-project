@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>This will be a list of every class I am taking this year</title>
+        <style>
+        </style>
+        <link rel="stylesheet" type="text/css" href="final project 2.css">
+        <script src="final project 3.js" defer></script>
+    </head>
+    <body class="body">
+        <p>List of every class I am taking this semester & description</p>
+        <table class="table2">
+            <thead>
+                <tr>
+                    <th class="flash">Ethnic Studies</th>
+                    <th class="flash">Web and Data Development</th>
+                    <th class="flash">Spanish 3</th>
+                    <th class="flash">Chemistry</th>
+                    <th class="flash">Intro Engineering and Design</th>
+                    <th class="flash">English 10</th>
+                    <th class="flash">Geometry</th>
+                </tr>
+                <tr>
+                    <td> In this class we are going over things like red linning, immigration system, executive order 9066</td>
+                    <td> We are coding and making websites</td>
+                    <td> I am learning how to conjugate verbs in the past tense</td>
+                    <td> We are learning about how to draw atoms sort of</td>
+                    <td> In our groups we have to take apart a multi colored pen and design it on an app on the computers</td>
+                    <td> We are writing and practicing writing essays</td>
+                    <td> Going over things like angles and reviewing for the final exam</td>
+                </tr>
+            </thead>
+        </table>
+        <table class="table2">
+            <thead>
+                <th><img src="https://tse1.mm.bing.net/th?id=OIP.eA8A_52WBl6eCNa21ZBJ3wHaE8&pid=Api&P=0&h=220" width="200px" height="200px"></th>
+                <th><img src="https://tse3.mm.bing.net/th?id=OIP.3YpKwqOkwhnFA8G4oTJ1JAHaEo&pid=Api&P=0&h=220" width="200px" height="200px"></th>
+                <th><img src="https://tse3.mm.bing.net/th?id=OIP.9ab0tb3g3dIcrTHLNQ8o3gHaFP&pid=Api&P=0&h=220" width="200px" height="200px"></th>
+                <th><img src="https://tse4.mm.bing.net/th?id=OIP.7dJN0KRfgBx2idiK11yO8AHaE8&pid=Api&P=0&h=220" width="200px" height="200px"></th>
+                <th><img src="https://tse4.mm.bing.net/th?id=OIP.Cb-vihzVDMNjE3suMkmBQQAAAA&pid=Api&P=0&h=220" width="200px" height="200px"></th>
+                <th><img src="https://2f96be1b505f7f7a63c3-837c961929b51c21ec10b9658b068d6c.ssl.cf2.rackcdn.com/thumb/009765.jpg" width="200px" height="200px"></th>
+                <th><img src="https://wpassets.adda247.com/wp-content/uploads/multisite/sites/2/2022/06/15155137/Geometry-Shapes-and-Formulas-2-01-1.png" width="200px" height="200px"></th>
+            </thead>
+        </table>
+    </body>
+
+</html>
